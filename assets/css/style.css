@@ -1753,10 +1753,15 @@ a.back {
   border: none;
   padding: 0; }
   .header .navbar .navbar-brand {
-    margin-right: 0; }
+    margin-right: 0;
+    margin: 15px 0;
+   }
     .header .navbar .navbar-brand .logo-dark {
-      display: none; }
+      display: none;
+      width: 50px !important;
+     }
     .header .navbar .navbar-brand .logo-light {
+      width: 50px !important;
       display: inline-block; }
   .header .navbar .navbar-nav > li {
     margin-right: 38px;
